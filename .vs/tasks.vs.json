@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Project-1-One",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
