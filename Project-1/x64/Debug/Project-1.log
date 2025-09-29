@@ -1,0 +1,14 @@
+﻿  Application.cpp
+  BasicBookAccount.cpp
+  BookAccount.cpp
+  BookDAO.cpp
+  BookManager.cpp
+  ExceptionHandling.cpp
+  InputValidation.cpp
+  LibrarianAccount.cpp
+  LibrarianManager.cpp
+  LoginAndRegister.cpp
+  Main.cpp
+  PremiumBookAccount.cpp
+  Generating Code...
+  Project-1.vcxproj -> C:\school\My project\Project-1\x64\Debug\Project-1.exe
